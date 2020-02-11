@@ -101,3 +101,15 @@ header#main-header div.side button {
   border: 0;
   border-radius: 16px;
 }
+
+div.banner {
+  height: 380px;
+  width: 100%;
+  background: #3bb9ec;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #fff;
+}
