@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="19" height="19" class="r-1re7ezh r-4qtqp9 r-yyyyoo r-1xvli5t r-7o8qx1 r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g stroke="none" fill="#657786" stroke-width="1px"><path d="M12 14.315c-2.088 0-3.787-1.698-3.787-3.786S9.913 6.74 12 6.74s3.787 1.7 3.787 3.787-1.7 3.785-3.787 3.785zm0-6.073c-1.26 0-2.287 1.026-2.287 2.287S10.74 12.814 12 12.814s2.287-1.025 2.287-2.286S13.26 8.24 12 8.24z" stroke="none" fill="#657786" stroke-width="1px"></path><path d="M20.692 10.69C20.692 5.9 16.792 2 12 2s-8.692 3.9-8.692 8.69c0 1.902.603 3.708 1.743 5.223l.003-.002.007.015c1.628 2.07 6.278 5.757 6.475 5.912.138.11.302.163.465.163.163 0 .327-.053.465-.162.197-.155 4.847-3.84 6.475-5.912l.007-.014.002.002c1.14-1.516 1.742-3.32 1.742-5.223zM12 20.29c-1.224-.99-4.52-3.715-5.756-5.285-.94-1.25-1.436-2.742-1.436-4.312C4.808 6.727 8.035 3.5 12 3.5s7.192 3.226 7.192 7.19c0 1.57-.497 3.062-1.436 4.313-1.236 1.57-4.532 4.294-5.756 5.285z" stroke="none" fill="#657786" stroke-width="1px"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TWITTER-PROFILE-2018" transform="translate(-132.000000, -692.000000)" fill="#657786">
+            <g id="Profile" transform="translate(0.000000, 341.000000)">
+                <g id="Quick-informations" transform="translate(129.000000, 350.000000)">
+                    <g id="Place" transform="translate(3.000000, 0.000000)">
+                        <g id="Group" transform="translate(0.000000, 1.000000)">
+                            <path d="M7,0 C3.1,0 0,3.1 0,7 C0,8.9 0.7,10.7 2.1,12 C2.2,12.1 6.2,15.7 6.3,15.8 C6.7,16.1 7.3,16.1 7.6,15.8 C7.7,15.7 11.8,12.1 11.8,12 C13.2,10.7 13.9,8.9 13.9,7 C14,3.1 10.9,0 7,0 Z M10.4,10.6 C10.4,10.6 10.4,10.7 10.4,10.6 L7,13.6 L3.6,10.6 C3.6,10.6 3.6,10.6 3.6,10.6 C2.6,9.7 2,8.4 2,7 C2,4.2 4.2,2 7,2 C9.8,2 12,4.2 12,7 C12,8.4 11.4,9.7 10.4,10.6 Z" id="Shape" fill-rule="nonzero"></path>
+                            <circle id="Oval-3" cx="7" cy="7" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
